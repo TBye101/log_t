@@ -1,0 +1,11 @@
+[package]
+name = "log_t"
+version = "0.1.0"
+authors = ["Thomas <sneakytactician@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+
+chrono = "0.4.9"
+contracts = "0.6.0"
+static_assertions = "1.1.0"
