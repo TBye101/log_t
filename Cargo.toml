@@ -3,6 +3,13 @@ name = "log_t"
 version = "0.1.0"
 authors = ["Thomas <sneakytactician@outlook.com>"]
 edition = "2018"
+description = "A simple logging library written by somebody learning Rust at the time"
+readme = "README.md"
+repository = "https://github.com/TBye101/log_t"
+license-file = "LICENSE"
+license = "MIT"
+keywords = ["log", "logging", "logger", "cli", "file"]
+categories = ["filesystem"]
 
 [dependencies]
 
